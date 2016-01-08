@@ -1,0 +1,6 @@
+F:\Fifth Semester\GUI DEVELOPMENT\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+F:\Fifth Semester\GUI DEVELOPMENT\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+F:\Fifth Semester\GUI DEVELOPMENT\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+F:\Fifth Semester\GUI DEVELOPMENT\PigLatin\PigLatin\obj\Debug\PigLatin.csprojResolveAssemblyReference.cache
+F:\Fifth Semester\GUI DEVELOPMENT\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+F:\Fifth Semester\GUI DEVELOPMENT\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
